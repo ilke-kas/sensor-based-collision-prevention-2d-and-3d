@@ -1,5 +1,5 @@
-# Lab 4: Sensor-Based Collision Prev
-This repository contains the `robot_no_crash` package developed for the labratory 4 of ECSE476 course. The package is designed to prevent the collision during robot movement. This functionality is developed in both 2D (the STDR) and 3D (Gazebo). 
+# Sensor-Based Collision Prev
+This repository contains the `robot_no_crash` package developed. The package is designed to prevent the collision during robot movement. This functionality is developed in both 2D (the STDR) and 3D (Gazebo). 
 
 ---
 
