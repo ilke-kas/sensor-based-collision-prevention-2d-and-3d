@@ -1,0 +1,4 @@
+lidar_topic: "/scan"
+robot_radius: 0.3
+outer_radius: 0.8
+inner_radius: 0.5

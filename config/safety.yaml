@@ -1,0 +1,4 @@
+lidar_topic: "/robot0/laser_0"
+robot_radius: 0.2
+outer_radius: 0.4
+inner_radius: 0.25
